@@ -1,3 +1,3 @@
 # cellular-automata
 
-[Click here for live demo](https://sanjaymagar.github.io/cellular-automata/)
+[Click here for live demo](https://sanjmgr.github.io/cellular-automata/)
